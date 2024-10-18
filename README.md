@@ -15,7 +15,7 @@ I'm a passionate junior front-end developer with a keen interest in becoming a p
 Here are some of the projects I've worked on:
 
 - [Project 1: Emoji Flip](https://5716.github.io/emojiflip/): Emoji Flip is a simple emoji matching game built with HTML, CSS, and JavaScript.
-- [Project 2: 9bitgame](#): "PlayStation 1 Online Emulator is a web-based platform that allows users to play classic PS1 games directly in their browsers. Built with HTML, CSS, and JavaScript, this project combines nostalgia with modern web technologies, making it easy to relive the gaming experience without any downloads."
+- [Project 2: 9bitgame](#): PlayStation 1 Online Emulator is a web-based platform that allows users to play classic PS1 games directly in their browsers. Built with HTML, CSS, and JavaScript, this project combines nostalgia with modern web technologies, making it easy to relive the gaming experience without any downloads.
 - [Project 3: Portfolio](#): Still Working on.
 
 ## 📫 Connect with Me
