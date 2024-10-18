@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saba Purtseladze! 22 Year Old Developer
+# 👋 Hi, I'm Saba Purtseladze, a 22-year-old developer!
 
 ## 🌟 About Me
 
