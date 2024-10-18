@@ -21,7 +21,7 @@ Here are some of the projects I've worked on:
 ## 📫 Connect with Me
 
 - **GitHub**: [@5716](https://github.com/5716)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/saba-purtseladze-2b9562263/)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/saba-purtseladze-2b9562263/)
 
 ## 🎯 Goals
 
