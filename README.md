@@ -7,8 +7,7 @@ I'm a passionate junior front-end developer with a keen interest in becoming a p
 ## 💻 Technologies & Skills
 
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React (aspiring), Bootstrap
-- **Tools**: Git, GitHub, VS Code
+- **Frameworks**: React & Tailwind (aspiring)
 
 ## 🚀 Projects
 
