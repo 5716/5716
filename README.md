@@ -1,4 +1,4 @@
-# 👋 Welcome to My Portfolio, I'm Saba Purtseladze
+# 👋 Hello, I'm Saba Purtseladze
 
 ## 🌟 About Me
 
