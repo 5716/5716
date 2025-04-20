@@ -1,32 +1,26 @@
-# 👋 Hi, I'm Saba Purtseladze, a 22-year-old developer!
+# 👋 Welcome to My Portfolio, I'm Saba Purtseladze
 
 ## 🌟 About Me
 
-I'm a passionate junior front-end developer with a keen interest in becoming a proficient React developer. My journey in web development has been driven by a love for creating interactive, user-friendly applications that make a difference. I enjoy tackling challenges and continuously learning new technologies to enhance my skills.
+I’m a 22-year-old junior front-end developer with a strong passion for creating interactive, user-friendly applications. My journey in web development is fueled by a love for building things with React and exploring new technologies. I thrive on challenges and constantly strive to improve my skills in crafting seamless and engaging digital experiences.
 
 ## 💻 Technologies & Skills
 
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React & Tailwind (aspiring)
+- **Frameworks**: React (currently mastering) & Tailwind CSS
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 Here are some of the projects I've worked on:
 
-- [Project 1: 9bitgame](https://www.9bitgame.com): PlayStation 1 Online Emulator is a web-based platform that allows users to play classic PS1 games directly in their browsers. Built with HTML, CSS, and JavaScript, this project combines nostalgia with modern web technologies, making it easy to relive the gaming experience without any downloads.
-- [Project 2: Portfolio](#): Still Working on.
+- [My Personal Portfolio](https://5716.github.io/portfolio/): This is my personal portfolio, built to showcase my skills and projects. I'm constantly improving it to reflect my growth as a developer.
+- [9bitgame - PS1 Emulator](https://5716.github.io/9bitgame/): A web-based PlayStation 1 emulator, where users can play classic games directly in their browser. Combining nostalgia with modern web technologies, it allows players to relive their favorite PS1 games without downloads.
+- [Resonix - Music Visualizer](https://5716.github.io/resonix/): A music visualizer that lets you upload music and see real-time visual effects. A fun and interactive way to combine audio with dynamic visuals.
+- [Fitapp - Calorie & Weight Tracker](https://5716.github.io/fitapp/): A calorie and weight tracking app that helps users track their food intake and perfect weight goals with suggested activities to burn calories.
+- [Emoji Guesser - Emoji Guessing Game](https://5716.github.io/emoji-guesser/): An interactive emoji guessing game where players guess emojis based on clues, with different difficulty modes (easy, normal, hard).
 
 ## 📫 Connect with Me
 
-- **GitHub**: [@5716](https://github.com/5716)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/saba-purtseladze-2b9562263/)
 
-## 🎯 Goals
-
-As I continue my journey in front-end development, I aim to:
-
-- Master React and its ecosystem.
-- Contribute to open-source projects.
-- Build a strong portfolio that showcases my skills.
-
-Thank you for visiting my GitHub profile! Feel free to reach out if you'd like to connect or collaborate! 😊
+Thank you for visiting my portfolio! Feel free to reach out if you'd like to connect or collaborate! 😊
